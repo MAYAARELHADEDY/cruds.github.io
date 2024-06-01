@@ -81,3 +81,6 @@ th,
 td {
   padding: 5px;
 }
+#deleteAll {
+  margin: 20px 0;
+}
